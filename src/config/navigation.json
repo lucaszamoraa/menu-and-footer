@@ -1,0 +1,33 @@
+{
+  "links": [
+    {
+      "text": "Home",
+      "url": "/home"
+    },
+    {
+      "text": "Sobre",
+      "url": "/sobre"
+    },
+    {
+      "text": "Serviços",
+      "url": "/servicos"
+    },
+    {
+      "text": "Galeria de fotos",
+      "url": "/galeria-de-fotos"
+    },
+    {
+      "text": "Notícias",
+      "url": "/noticias"
+    }
+  ],
+  "socials": {
+    "facebook": "https://www.facebook.com/loglinelogisticaintegrada",
+    "instagram": "https://www.instagram.com/loglinelogistica",
+    "linkedin": "https://www.linkedin.com/company/logline-log%C3%ADstica/?trk=public_profile_topcard-current-company"
+  },
+  "texts": {
+    "textTitle": "Where Logistics Meets Excellence! We are your strategic partner in navigating the complexities of global supply chains, ensuring your goods reach their destination seamlessly and efficiently.",
+    "textSubscribe": "Subscribe to our newsletter for exclusive offers, freight tips, and news about SeaTranz Services."
+  }
+}
